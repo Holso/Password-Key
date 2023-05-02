@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1654086695 source:d:\lenovo\desktop\c-h\c++\8.dificile\trifid #3320\main.cpp
+	<iostream>
+	<cctype>
+	<cstring>
+
+1680808424 source:d:\lenovo\desktop\c-h\c++\8.dificile\trifid #3320 -transforma-\main.cpp
+	<iostream>
+	<cctype>
+	<cstring>
+	<fstream>
+
